@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
 
-<img align="right" height="270" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
+<h2 align="center">The Jack of all Computing Techs </h2>
 
-<h2 align="center">The Jack of all Computing Techs. </h2>
+&nbsp; <!-- To leave space -->
+ 
+<img align="right" height="270" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshannaidu&label=Visitors&color=0148d5&style=plastic" alt="roshannaidu" /> </p>
 
