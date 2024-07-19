@@ -20,7 +20,7 @@
 <h3 align="left">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshannaidu" alt="roshannaidu" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshannaidu&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="roshannaidu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshannaidu&show_icons=true&theme=dracula&locale=en&layout=compact" alt="roshannaidu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshannaidu&show_icons=true&theme=dracula&locale=en" alt="roshannaidu" /></p>
 
