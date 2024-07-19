@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
 
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif"  />
+
+###
 
 <h3 align="center">The Jack of all Computing Techs.</h3>
 
