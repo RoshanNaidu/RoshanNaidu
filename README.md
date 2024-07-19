@@ -18,4 +18,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshannaidu&" alt="roshannaidu" /></p>
 
-![Snake animation](https://raw.githubusercontent.com/RoshanNaidu/RoshanNaidu/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/RoshanNaidu/RoshanNaidu/output/snake.svg" alt="Snake animation" />
+
+###
