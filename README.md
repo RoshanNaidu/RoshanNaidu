@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
 <h3 align="center">The Jack of all Computing Techs.</h3>
+<div align="right">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshannaidu&label=Profile%20views&color=0e75b6&style=flat" alt="roshannaidu" /> </p>
 
