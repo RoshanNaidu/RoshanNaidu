@@ -20,4 +20,6 @@
 
 ###
 <br clear = "both">
-<img src="GitHub/workflows/snake.yml" />
+<img src="https://raw.githubusercontent.com/RoshanNaidu/RoshanNaidu/output/snake.svg" alt="Snake animation" />
+
+###
