@@ -17,6 +17,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshannaidu&show_icons=true&locale=en" alt="roshannaidu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshannaidu&" alt="roshannaidu" /></p>
+
 <img src="https://raw.githubusercontent.com/RoshanNaidu/RoshanNaidu/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
