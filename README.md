@@ -12,6 +12,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/roshan-naidu-aka-adonis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-naidu-aka-adonis" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/razzing_adonis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/razzing_adonis/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/rizzing_adonis" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" alt="https://www.hackerrank.com/profile/rizzing_adonis/" height="30" width="40" /></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
