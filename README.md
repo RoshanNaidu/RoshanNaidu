@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan</h1>
 
 <h2 align="center">The Jack of all Computing Techs</h2>
-<p align="right"> And yes, CS50 changed my life 🛟</p>
+<p align="right"> And yes, CS50 = 🛟</p>
 
 &nbsp; <!-- To leave space -->
  
